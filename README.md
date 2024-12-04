@@ -1,7 +1,7 @@
 # SwiftUI-PriceCalculationExcludingVAT
 
 #### TR
-KDV dahil fiyattan, KDV hariç fiyat hesaplayan program. %18 KDV baz alınmıştır.
+KDV dahil fiyattan, KDV hariç fiyat hesaplayan program. %18 KDV baz alınmıştır. <br>
 SwiftUI kullanılarak, MacOS platformu için geliştirilmiştir.
 Trendyol mağazamda sık satılan ürünlerin fiyatlarını kolayca kopyala - yapıştır yapabilmek için alt kısma ekledim.
 
